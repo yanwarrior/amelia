@@ -67,7 +67,7 @@ $("#btn").on('click', function () {
 
 After you clik button, in the console, you can see output like this:
 
-![]('https://github.com/yanwarsolah/amelia/blob/master/example/images/native.png?raw=true')
+![](example/images/native.png?raw=true)
 
 
 ### Advanced Usage (KnockoutJS)
